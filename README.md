@@ -21,6 +21,7 @@ en la ruta (citas_medicas) usar php -S localhost:8000 o el puerto en el que se i
 Dirigirse al navegador con esta ruta : http://localhost:8000/index.php
 
 --Como dato existe un pdf con la explicacion de las pantallas dentro de este mismo repositorio.
+https://github.com/Freylolo/Prueba_PHP/blob/main/Prueba%20T%C3%A9cnica.pdf
 
 
 
